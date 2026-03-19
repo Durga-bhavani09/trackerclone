@@ -49,15 +49,19 @@ https://example.com
 
 ## Project Structure
 
-
 ```
 trackerclone/
 │
-├── index.php        # Main interface
-├── clone.php        # Handles cloning
-├── parser.php       # Extracts links
+├── index.php              # UI for entering URL
+├── crawler.php            # Main crawling logic
+├── functions.php          # Helper functions
+├── config.php             # Configuration file
+├── test.php               # Testing file
 │
-├── downloads/       # Cloned sites
+├── downloads/             # Cloned websites storage
+│   ├── facebook.com/
+│   ├── instagram.com/
+│   └── snapchat.com/
 │
 ├── assets/
 │   ├── css/
