@@ -48,6 +48,7 @@ https://example.com
 5. The website files will be saved in the project folder.
 
 ## Project Structure
+'''
 trackerclone/
 │
 ├── index.php              # Main interface for entering website URL
@@ -64,6 +65,7 @@ trackerclone/
 │
 ├── README.md
 └── LICENSE
+'''
 
 ## Disclaimer
 
