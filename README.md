@@ -48,24 +48,26 @@ https://example.com
 5. The website files will be saved in the project folder.
 
 ## Project Structure
-'''
+
+
+```
 trackerclone/
 │
-├── index.php              # Main interface for entering website URL
-├── clone.php              # Handles website cloning process
-├── parser.php             # Extracts links from HTML
+├── index.php        # Main interface
+├── clone.php        # Handles cloning
+├── parser.php       # Extracts links
 │
-├── downloads/             # Saved cloned websites
+├── downloads/       # Cloned sites
 │
 ├── assets/
 │   ├── css/
 │   │   └── style.css
-│   └── js/
-│       └── script.js
+│   ├── js/
+│   │   └── script.js
 │
 ├── README.md
 └── LICENSE
-'''
+```
 
 ## Disclaimer
 
