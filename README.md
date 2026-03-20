@@ -79,4 +79,4 @@ This project is developed for educational purposes only. Do not use it to copy o
 
 ## Author
 
-Durga Bhavani﻿# trackerclone
+Durga Bhavani ﻿#trackerclone
